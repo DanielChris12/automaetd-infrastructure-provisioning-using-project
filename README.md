@@ -1,2 +1,2 @@
-# automaetd-infrastructure-provisioning-using-project
+# automated-infrastructure-provisioning-using-project
 automaetd-infrastructure-provisioning-using-project
